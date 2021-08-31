@@ -5,4 +5,4 @@
 
 
 ## 2. 회귀
-[보스턴 주택 가격(Basic Data](https://github.com/junseok-0505/ML/blob/main/Regression/Boston%20house%20(basic%20data).ipynb): Sklearn Data
+[보스턴 주택 가격(Basic Data)](https://github.com/junseok-0505/ML/blob/main/Regression/Boston%20house%20(basic%20data).ipynb): Sklearn Data
